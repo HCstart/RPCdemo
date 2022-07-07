@@ -1,0 +1,2 @@
+serverLogFilterImpl=org.sjtu.filter.server.ServerLogFilterImpl
+serverTokenFilterImpl=org.sjtu.filter.server.ServerTokenFilterImpl

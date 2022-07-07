@@ -1,0 +1,4 @@
+kryo=org.sjtu.serialize.kryo.KryoSerializeFactory
+jdk=org.sjtu.serialize.jdk.JdkSerializeFactory
+hessian=org.sjtu.serialize.hessian.HessianSerializeFactory
+fastJson=org.sjtu.serialize.fastjson.FastJsonSerializeFactory

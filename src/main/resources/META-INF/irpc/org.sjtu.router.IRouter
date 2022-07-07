@@ -1,0 +1,2 @@
+rotate=org.sjtu.router.RotateRouterImpl
+random=org.sjtu.router.RandomRouterImpl

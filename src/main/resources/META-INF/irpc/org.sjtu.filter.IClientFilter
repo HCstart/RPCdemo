@@ -1,0 +1,3 @@
+clientLogFilterImpl=org.sjtu.filter.client.ClientLogFilterImpl
+directInvokeFilterImpl=org.sjtu.filter.client.DirectInvokeFilterImpl
+groupFilterImpl=org.sjtu.filter.client.GroupFilterImpl

@@ -1,0 +1,1 @@
+zookeeper=org.sjtu.registry.zookeeper.ZookeeperRegister
